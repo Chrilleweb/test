@@ -17,6 +17,7 @@ public class Main {
         System.out.println("\u1F923");
         System.out.println("Den er \u001b[31mrød\uu001b[0m.");
         System.out.println("\uD83D\uDE00");
+        System.out.println("Hello");
 
     }
 }
